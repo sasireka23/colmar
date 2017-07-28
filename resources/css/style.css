@@ -188,7 +188,7 @@ body{
 		padding-left: 16px;
 	    color: #4d4d4d;
 	    max-width: 90%;
-	    margin-top: 12px;
+	    margin-top: 20px;
 
 
 
@@ -219,7 +219,7 @@ body{
      max-width: 60%;
      line-height: 1.5;
 
-}
+   }
 }
 
 
@@ -228,9 +228,6 @@ body{
 .info{
 	display: flex;
 	margin-top: 16px;
-
-
-	
 
 }
 
